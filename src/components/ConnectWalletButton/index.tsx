@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button, ButtonProps, useWalletModal} from 'pushswap-layout'
+import { Button, ButtonProps, useWalletModal} from '@malikfarhan/design2'
 import useI18n from 'hooks/useI18n'
 import useAuth from 'hooks/useAuth'
 
