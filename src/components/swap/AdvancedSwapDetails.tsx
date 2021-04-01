@@ -1,6 +1,6 @@
 import React from 'react'
 import { Trade, TradeType } from '@pancakeswap-libs/sdk'
-import { Card, CardBody, Text } from 'pushswap-layout'
+import { Card, CardBody, Text } from '@malikfarhan/design2'
 import useI18n from 'hooks/useI18n'
 import { Field } from '../../state/swap/actions'
 import { useUserSlippageTolerance } from '../../state/user/hooks'
