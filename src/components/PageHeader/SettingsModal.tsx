@@ -1,5 +1,5 @@
 import React from 'react'
-import { Modal } from 'pushswap-layout'
+import { Modal } from '@malikfarhan/design2'
 import SlippageToleranceSetting from './SlippageToleranceSetting'
 import TransactionDeadlineSetting from './TransactionDeadlineSetting'
 
